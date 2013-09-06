@@ -7,6 +7,7 @@ int main( int p_Argc, char **p_ppArgv )
 	refresh( );
 	getch( );
 	endwin( );
+
 	return 0;
 }
 
